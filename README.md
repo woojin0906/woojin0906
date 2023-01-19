@@ -2,7 +2,7 @@
 
 <a href="https://github.com/woojin0906"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/>
-<a href="jwjley@naver.com"><img src="https://img.shields.io/badge/jwjley@naver.com-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jwjley@naver.com-03C75A?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://www.instagram.com/wj._.h_s2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 
