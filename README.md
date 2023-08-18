@@ -8,16 +8,13 @@
 <a href="https://www.instagram.com/wj._.h_s2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@jwjley"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></div><br>
 
-<div align="center"><h2>🖥️ Tech Stack</h2></div>
-<div align="center">💡used as the main</div><p>
+<div align="center"><h2>🖥️ Tech Stack 🖥️</h2></div>
 <div align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-<br><br>
-<div align="center">💡used at least once</div><p>
 <div align="center"> 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
@@ -27,6 +24,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 <div>
 <p>
+
+<div align="center"><h2>🛠 Tools 🛠</h2></div>
+<div align="center">
+<img src="https://img.shields.io/badge/Intellij-FF6737?style=flat&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojin0906&layout=compact)](https://github.com/woojin0906/github-readme-stats)
 
